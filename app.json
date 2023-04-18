@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Secure",
+    "slug": "Secure",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "version": "1.1.0",
+      "package": "com.akshaynew.project",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon1.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "61d8426a-c5f8-4d7d-b24e-02a508b3e590"
+      }
+    }
+  }
+}
